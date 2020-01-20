@@ -1,0 +1,28 @@
+{
+  "name": "monitor-service",
+  "version": "1.0.0",
+  "description": "rest service to managed monitoring information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcmaster/pi-cloud.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "cloud",
+    "respberry-pi"
+  ],
+  "author": "Tim McMaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmcmaster/pi-cloud/issues"
+  },
+  "homepage": "https://github.com/tmcmaster/pi-cloud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
